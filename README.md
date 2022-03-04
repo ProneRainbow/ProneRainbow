@@ -10,7 +10,7 @@
 - I've decided to start documenting more of learning on GitHub, so sorry if you take a look and a lot of this is pretty basic and boring!
 
 - 👀 I’m interested in animating the web, I love using CSS and JavaScript to make cool animations and effects.
-- I don't get much time to sudy it, but UX and UI design and the psycology that goes behind them I find fascinating. And what's the pint of a website nobody wants 
+- I don't get much time to sudy it, but UX and UI design and the psycology that goes behind them I find fascinating. And what's the point of a website nobody wants 
 to use right?! 
 - I also like a cool ale on a summers day ;)
 
